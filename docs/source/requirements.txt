@@ -1,0 +1,14 @@
+sphinx
+sphinx-rtd-theme
+sphinx-autodocgen
+sphinxcontrib-napoleon
+myst-nb
+bibmon
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+statsmodels
+optuna
